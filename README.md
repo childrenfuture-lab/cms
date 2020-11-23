@@ -3,8 +3,7 @@ Welcome cms open source
 <br>
 Recruitment<br>
   > PHP 5.6 Ke Atas
-  <br>
-  >Support Semua Jenis Webservice
+  > Support Semua Jenis Webservice
   <br>
 <b>Tampilan CMS </b>
 <br><br>
