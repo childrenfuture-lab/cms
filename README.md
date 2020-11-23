@@ -1,10 +1,8 @@
 # cms children Future
 Welcome cms open source
 <br>
-Recruitment<br>
-  > PHP 5.6 Ke Atas
-  > Support Semua Jenis Webservice
-  <br>
+Recruitment
+  PHP 5.6 Ke Atas & Support Semua Jenis Webservice
 <b>Tampilan CMS </b>
 <br><br>
 <b>1. Home Page </b>
